@@ -1,0 +1,5 @@
+E:\challenges\searchfight\Services\bin\Debug\Services.dll
+E:\challenges\searchfight\Services\bin\Debug\Services.pdb
+E:\challenges\searchfight\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+E:\challenges\searchfight\Services\obj\Debug\Services.dll
+E:\challenges\searchfight\Services\obj\Debug\Services.pdb

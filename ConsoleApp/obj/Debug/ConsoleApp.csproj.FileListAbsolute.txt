@@ -1,0 +1,12 @@
+E:\challenges\searchfight\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\challenges\searchfight\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\challenges\searchfight\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\challenges\searchfight\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+E:\challenges\searchfight\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\challenges\searchfight\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\challenges\searchfight\ConsoleApp\obj\Debug\ConsoleApp.pdb
+E:\challenges\searchfight\ConsoleApp\bin\Debug\Entities.dll
+E:\challenges\searchfight\ConsoleApp\bin\Debug\Services.dll
+E:\challenges\searchfight\ConsoleApp\bin\Debug\Entities.pdb
+E:\challenges\searchfight\ConsoleApp\bin\Debug\Services.pdb
+E:\challenges\searchfight\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
