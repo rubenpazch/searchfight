@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Factory;
+using Configuration;
+using Services;
 
 namespace searchfight
 {
@@ -10,6 +8,8 @@ namespace searchfight
     {
         static void Main(string[] args)
         {
+            ISearchServiceFactory factory = new SearchServiceConfiguration();
+            var services = factory.GetAvailableServices();
         }
     }
 }
