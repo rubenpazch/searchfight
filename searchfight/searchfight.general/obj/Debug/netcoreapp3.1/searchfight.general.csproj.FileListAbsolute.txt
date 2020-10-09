@@ -1,0 +1,5 @@
+E:\challenges\searchfight\searchfight\searchfight.general\bin\Debug\netcoreapp3.1\searchfight.general.deps.json
+E:\challenges\searchfight\searchfight\searchfight.general\bin\Debug\netcoreapp3.1\searchfight.general.dll
+E:\challenges\searchfight\searchfight\searchfight.general\obj\Debug\netcoreapp3.1\searchfight.general.csprojAssemblyReference.cache
+E:\challenges\searchfight\searchfight\searchfight.general\obj\Debug\netcoreapp3.1\searchfight.general.AssemblyInfoInputs.cache
+E:\challenges\searchfight\searchfight\searchfight.general\obj\Debug\netcoreapp3.1\searchfight.general.AssemblyInfo.cs

@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\searchfight.general\searchfight.general.csproj" />
     <ProjectReference Include="..\searchfight.model\searchfight.model.csproj" />
     <ProjectReference Include="..\searchfight.service\searchfight.service.csproj" />
   </ItemGroup>

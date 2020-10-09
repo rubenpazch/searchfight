@@ -1,4 +1,5 @@
-﻿using searchfight.logic.models;
+﻿using searchfight.general.Exceptions;
+using searchfight.logic.models;
 using searchfight.service.interfaces;
 using System;
 using System.Collections.Generic;
@@ -56,7 +57,6 @@ namespace searchfight.logic
             }
             catch (SearchFightLogicException)
             {
-
                 throw;
             }
             catch (Exception e)
