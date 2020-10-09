@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searchfight.model", "search
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searchfight.service", "searchfight.service\searchfight.service.csproj", "{7712E688-B8F6-42D5-B3E9-CB6B394C835B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searchfight.general", "searchfight.general\searchfight.general.csproj", "{A41FEA21-F6B4-4CCD-9F2D-4F3B57C21634}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7712E688-B8F6-42D5-B3E9-CB6B394C835B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7712E688-B8F6-42D5-B3E9-CB6B394C835B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7712E688-B8F6-42D5-B3E9-CB6B394C835B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A41FEA21-F6B4-4CCD-9F2D-4F3B57C21634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41FEA21-F6B4-4CCD-9F2D-4F3B57C21634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41FEA21-F6B4-4CCD-9F2D-4F3B57C21634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41FEA21-F6B4-4CCD-9F2D-4F3B57C21634}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

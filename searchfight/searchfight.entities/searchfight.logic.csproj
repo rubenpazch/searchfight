@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\searchfight.model\searchfight.model.csproj" />
+    <ProjectReference Include="..\searchfight.service\searchfight.service.csproj" />
   </ItemGroup>
 
 </Project>

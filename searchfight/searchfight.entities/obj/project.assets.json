@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/searchfight.model.dll": {}
         }
+      },
+      "searchfight.service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/searchfight.service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/searchfight.service.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../searchfight.model/searchfight.model.csproj",
       "msbuildProject": "../searchfight.model/searchfight.model.csproj"
+    },
+    "searchfight.service/1.0.0": {
+      "type": "project",
+      "path": "../searchfight.service/searchfight.service.csproj",
+      "msbuildProject": "../searchfight.service/searchfight.service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "searchfight.model >= 1.0.0"
+      "searchfight.model >= 1.0.0",
+      "searchfight.service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -54,6 +70,9 @@
           "projectReferences": {
             "E:\\challenges\\searchfight\\searchfight\\searchfight.model\\searchfight.model.csproj": {
               "projectPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.model\\searchfight.model.csproj"
+            },
+            "E:\\challenges\\searchfight\\searchfight\\searchfight.service\\searchfight.service.csproj": {
+              "projectPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.service\\searchfight.service.csproj"
             }
           }
         }
