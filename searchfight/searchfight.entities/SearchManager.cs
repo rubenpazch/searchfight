@@ -72,7 +72,18 @@ namespace searchfight.logic
 
         public IEnumerable<Winner> GetWinners(List<SearchResult> searchResults)
         {
-            throw new NotImplementedException();
+            if (searchResults == null)
+                throw new ArgumentNullException(nameof(searchResults));
+            var winners = searchResults
+                .OrderBy(result => result.SearchClient)
+                .GroupBy(result => result.SearchClient, result => result,
+                    (client, result) => new Winner
+                    {
+                        ClientName = client,
+                        WinnerQuery = result.MaxValue(r => r.TotalResults).Query
+                    });
+
+            return winners;
         }
     }
 }
