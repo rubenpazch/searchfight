@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searchfight.logic", "search
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searchfight.model", "searchfight.model\searchfight.model.csproj", "{0A10090E-42BF-4F8C-B20A-D3701F275494}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searchfight.service", "searchfight.service\searchfight.service.csproj", "{7712E688-B8F6-42D5-B3E9-CB6B394C835B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0A10090E-42BF-4F8C-B20A-D3701F275494}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A10090E-42BF-4F8C-B20A-D3701F275494}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A10090E-42BF-4F8C-B20A-D3701F275494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7712E688-B8F6-42D5-B3E9-CB6B394C835B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7712E688-B8F6-42D5-B3E9-CB6B394C835B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7712E688-B8F6-42D5-B3E9-CB6B394C835B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7712E688-B8F6-42D5-B3E9-CB6B394C835B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
