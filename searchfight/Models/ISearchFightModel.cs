@@ -2,9 +2,9 @@
 
 namespace Models
 {
-    public interface ISearchFight
+    public interface ISearchFightModel
     {
-        TermSearchResult[] GetTermSearchResults(string[] terms);
+        ModelTermSearchResult[] GetTermSearchResults(string[] terms);
         bool TryValidateTerms(string[] terms, string[] validateErrors);
     }
 }
