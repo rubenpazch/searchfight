@@ -21,8 +21,8 @@ namespace searchfight.service.clients
         {
             _httpClient = new HttpClient
             {
-                BaseAddress = new Uri(configManager.BingUri),
-                DefaultRequestHeaders = { { "Ocp-Apim-Subscription-Key", configManager.BingKey } }
+                BaseAddress = new Uri(ConfigManager.BingUri),
+                DefaultRequestHeaders = { { "Ocp-Apim-Subscription-Key", ConfigManager.BingKey } }
             };
         }
         public async Task<long> GetResultCountAsync(string query)
