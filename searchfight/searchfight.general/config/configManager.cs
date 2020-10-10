@@ -5,7 +5,7 @@ using System.Text;
 
 namespace searchfight.general.config
 {
-    public class configManager
+    public class ConfigManager
     {
         public static string GoogleUri => GetSettingByKey<string>("GoogleURL");
         public static string BingUri => GetSettingByKey<string>("BingURL");

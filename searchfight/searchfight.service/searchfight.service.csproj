@@ -5,8 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="clients\" />
-    <Folder Include="models\" />
+    <ProjectReference Include="..\searchfight.general\searchfight.general.csproj" />
   </ItemGroup>
 
 </Project>

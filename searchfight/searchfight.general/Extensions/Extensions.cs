@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Text.Encodings.Web;
-using Newtonsoft.Json;
+using System.Text.Json;
+//using Newtonsoft.Json;
+using System.Text.Json.Serialization;
 
 namespace searchfight.general.Extensions
 {
@@ -10,8 +12,7 @@ namespace searchfight.general.Extensions
     {
         public static T DeserializeJson<T>(this string json)
         {
-            var javaScriptSerializer = new JavaScriptSerializer();
-            return javaScriptSerializer.Deserialize<T>(json);
+            return JsonSerializer.Deserialize<T>(json);
         }
     }
     public static class CollectionExtensions
