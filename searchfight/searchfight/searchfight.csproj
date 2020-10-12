@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\searchfight.factory\searchfight.factory.csproj" />
+    <ProjectReference Include="..\searchfight.general\searchfight.general.csproj" />
   </ItemGroup>
 
 </Project>

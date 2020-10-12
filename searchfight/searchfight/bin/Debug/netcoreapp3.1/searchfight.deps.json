@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v3.1": {
       "searchfight/1.0.0": {
         "dependencies": {
-          "searchfight.factory": "1.0.0"
+          "searchfight.factory": "1.0.0",
+          "searchfight.general": "1.0.0"
         },
         "runtime": {
           "searchfight.dll": {}
@@ -126,9 +127,19 @@
           }
         }
       },
+      "SearchFight.Core/1.0.0": {
+        "dependencies": {
+          "searchfight.general": "1.0.0",
+          "searchfight.model": "1.0.0",
+          "searchfight.service": "1.0.0"
+        },
+        "runtime": {
+          "searchfight.logic.dll": {}
+        }
+      },
       "searchfight.factory/1.0.0": {
         "dependencies": {
-          "searchfight.logic": "1.0.0"
+          "SearchFight.Core": "1.0.0"
         },
         "runtime": {
           "searchfight.factory.dll": {}
@@ -140,16 +151,6 @@
         },
         "runtime": {
           "searchfight.general.dll": {}
-        }
-      },
-      "searchfight.logic/1.0.0": {
-        "dependencies": {
-          "searchfight.general": "1.0.0",
-          "searchfight.model": "1.0.0",
-          "searchfight.service": "1.0.0"
-        },
-        "runtime": {
-          "searchfight.logic.dll": {}
         }
       },
       "searchfight.model/1.0.0": {
@@ -236,17 +237,17 @@
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
+    "SearchFight.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "searchfight.factory/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "searchfight.general/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "searchfight.logic/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

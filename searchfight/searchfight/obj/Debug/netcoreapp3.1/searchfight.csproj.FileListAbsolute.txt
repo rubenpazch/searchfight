@@ -1,3 +1,7 @@
+E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.csprojAssemblyReference.cache
+E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.AssemblyInfoInputs.cache
+E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.AssemblyInfo.cs
+E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.csproj.CoreCompileInputs.cache
 E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\searchfight.exe
 E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\searchfight.dll.config
 E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\searchfight.deps.json
@@ -26,10 +30,6 @@ E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\search
 E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\searchfight.logic.pdb
 E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\searchfight.model.pdb
 E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\searchfight.service.pdb
-E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.csprojAssemblyReference.cache
-E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.AssemblyInfoInputs.cache
-E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.AssemblyInfo.cs
-E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.csproj.CoreCompileInputs.cache
 E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.csproj.CopyComplete
 E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.dll
 E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.pdb

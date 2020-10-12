@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\challenges\\searchfight\\searchfight\\searchfight.factory\\searchfight.factory.csproj": {}
+    "E:\\challenges\\searchfight\\searchfight\\searchfight.entities\\searchfight.logic.csproj": {}
   },
   "projects": {
-    "E:\\challenges\\searchfight\\searchfight\\searchfight.factory\\searchfight.factory.csproj": {
+    "E:\\challenges\\searchfight\\searchfight\\searchfight.entities\\searchfight.logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\challenges\\searchfight\\searchfight\\searchfight.factory\\searchfight.factory.csproj",
-        "projectName": "searchfight.factory",
-        "projectPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.factory\\searchfight.factory.csproj",
+        "projectUniqueName": "E:\\challenges\\searchfight\\searchfight\\searchfight.entities\\searchfight.logic.csproj",
+        "projectName": "SearchFight.Core",
+        "projectPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.entities\\searchfight.logic.csproj",
         "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
-        "outputPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.factory\\obj\\",
+        "outputPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\challenges\\searchfight\\searchfight\\searchfight.logic\\searchfight.logic.csproj": {
-                "projectPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.logic\\searchfight.logic.csproj"
+              "E:\\challenges\\searchfight\\searchfight\\searchfight.general\\searchfight.general.csproj": {
+                "projectPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.general\\searchfight.general.csproj"
+              },
+              "E:\\challenges\\searchfight\\searchfight\\searchfight.model\\searchfight.model.csproj": {
+                "projectPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.model\\searchfight.model.csproj"
+              },
+              "E:\\challenges\\searchfight\\searchfight\\searchfight.service\\searchfight.service.csproj": {
+                "projectPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.service\\searchfight.service.csproj"
               }
             }
           }
@@ -99,68 +105,6 @@
               "version": "[4.7.0, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "E:\\challenges\\searchfight\\searchfight\\searchfight.logic\\searchfight.logic.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "E:\\challenges\\searchfight\\searchfight\\searchfight.logic\\searchfight.logic.csproj",
-        "projectName": "SearchFight.Core",
-        "projectPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.logic\\searchfight.logic.csproj",
-        "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
-        "outputPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.logic\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "projectReferences": {
-              "E:\\challenges\\searchfight\\searchfight\\searchfight.general\\searchfight.general.csproj": {
-                "projectPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.general\\searchfight.general.csproj"
-              },
-              "E:\\challenges\\searchfight\\searchfight\\searchfight.model\\searchfight.model.csproj": {
-                "projectPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.model\\searchfight.model.csproj"
-              },
-              "E:\\challenges\\searchfight\\searchfight\\searchfight.service\\searchfight.service.csproj": {
-                "projectPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.service\\searchfight.service.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",

@@ -12,7 +12,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\searchfight.entities\searchfight.logic.csproj" />
+    <ProjectReference Include="..\searchfight.logic\searchfight.logic.csproj" />
   </ItemGroup>
 
 </Project>

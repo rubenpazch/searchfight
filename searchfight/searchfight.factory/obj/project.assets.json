@@ -506,8 +506,8 @@
     },
     "SearchFight.Core/1.0.0": {
       "type": "project",
-      "path": "../searchfight.entities/searchfight.logic.csproj",
-      "msbuildProject": "../searchfight.entities/searchfight.logic.csproj"
+      "path": "../searchfight.logic/searchfight.logic.csproj",
+      "msbuildProject": "../searchfight.logic/searchfight.logic.csproj"
     },
     "searchfight.general/1.0.0": {
       "type": "project",
@@ -556,8 +556,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\challenges\\searchfight\\searchfight\\searchfight.entities\\searchfight.logic.csproj": {
-              "projectPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.entities\\searchfight.logic.csproj"
+            "E:\\challenges\\searchfight\\searchfight\\searchfight.logic\\searchfight.logic.csproj": {
+              "projectPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.logic\\searchfight.logic.csproj"
             }
           }
         }

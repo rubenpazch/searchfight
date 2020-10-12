@@ -16,6 +16,9 @@ E:\challenges\searchfight\searchfight\factory\obj\Debug\netcoreapp3.1\searchfigh
 E:\challenges\searchfight\searchfight\factory\obj\Debug\netcoreapp3.1\searchfight.factory.csproj.CopyComplete
 E:\challenges\searchfight\searchfight\factory\obj\Debug\netcoreapp3.1\searchfight.factory.dll
 E:\challenges\searchfight\searchfight\factory\obj\Debug\netcoreapp3.1\searchfight.factory.pdb
+E:\challenges\searchfight\searchfight\searchfight.factory\obj\Debug\netcoreapp3.1\searchfight.factory.AssemblyInfoInputs.cache
+E:\challenges\searchfight\searchfight\searchfight.factory\obj\Debug\netcoreapp3.1\searchfight.factory.AssemblyInfo.cs
+E:\challenges\searchfight\searchfight\searchfight.factory\obj\Debug\netcoreapp3.1\searchfight.factory.csproj.CoreCompileInputs.cache
 E:\challenges\searchfight\searchfight\searchfight.factory\bin\Debug\netcoreapp3.1\searchfight.factory.deps.json
 E:\challenges\searchfight\searchfight\searchfight.factory\bin\Debug\netcoreapp3.1\searchfight.factory.dll
 E:\challenges\searchfight\searchfight\searchfight.factory\bin\Debug\netcoreapp3.1\searchfight.factory.pdb
@@ -28,9 +31,6 @@ E:\challenges\searchfight\searchfight\searchfight.factory\bin\Debug\netcoreapp3.
 E:\challenges\searchfight\searchfight\searchfight.factory\bin\Debug\netcoreapp3.1\searchfight.model.pdb
 E:\challenges\searchfight\searchfight\searchfight.factory\bin\Debug\netcoreapp3.1\searchfight.service.pdb
 E:\challenges\searchfight\searchfight\searchfight.factory\obj\Debug\netcoreapp3.1\searchfight.factory.csprojAssemblyReference.cache
-E:\challenges\searchfight\searchfight\searchfight.factory\obj\Debug\netcoreapp3.1\searchfight.factory.AssemblyInfoInputs.cache
-E:\challenges\searchfight\searchfight\searchfight.factory\obj\Debug\netcoreapp3.1\searchfight.factory.AssemblyInfo.cs
-E:\challenges\searchfight\searchfight\searchfight.factory\obj\Debug\netcoreapp3.1\searchfight.factory.csproj.CoreCompileInputs.cache
 E:\challenges\searchfight\searchfight\searchfight.factory\obj\Debug\netcoreapp3.1\searchfight.factory.csproj.CopyComplete
 E:\challenges\searchfight\searchfight\searchfight.factory\obj\Debug\netcoreapp3.1\searchfight.factory.dll
 E:\challenges\searchfight\searchfight\searchfight.factory\obj\Debug\netcoreapp3.1\searchfight.factory.pdb
