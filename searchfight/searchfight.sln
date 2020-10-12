@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searchfight", "searchfight\searchfight.csproj", "{4BDED3C9-B5F4-40F1-9F09-8AEDBB4CC333}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "searchfight", "searchfight\searchfight.csproj", "{4BDED3C9-B5F4-40F1-9F09-8AEDBB4CC333}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searchfight.logic", "searchfight.entities\searchfight.logic.csproj", "{9F2FD48A-0381-46A0-8406-FE1ED0B170A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "searchfight.logic", "searchfight.entities\searchfight.logic.csproj", "{9F2FD48A-0381-46A0-8406-FE1ED0B170A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searchfight.model", "searchfight.model\searchfight.model.csproj", "{0A10090E-42BF-4F8C-B20A-D3701F275494}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "searchfight.model", "searchfight.model\searchfight.model.csproj", "{0A10090E-42BF-4F8C-B20A-D3701F275494}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searchfight.service", "searchfight.service\searchfight.service.csproj", "{7712E688-B8F6-42D5-B3E9-CB6B394C835B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "searchfight.service", "searchfight.service\searchfight.service.csproj", "{7712E688-B8F6-42D5-B3E9-CB6B394C835B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searchfight.general", "searchfight.general\searchfight.general.csproj", "{A41FEA21-F6B4-4CCD-9F2D-4F3B57C21634}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "searchfight.general", "searchfight.general\searchfight.general.csproj", "{A41FEA21-F6B4-4CCD-9F2D-4F3B57C21634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "factory", "factory\factory.csproj", "{92B7B623-7221-4AD1-9F24-D9303E39ABDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A41FEA21-F6B4-4CCD-9F2D-4F3B57C21634}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A41FEA21-F6B4-4CCD-9F2D-4F3B57C21634}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A41FEA21-F6B4-4CCD-9F2D-4F3B57C21634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B7B623-7221-4AD1-9F24-D9303E39ABDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B7B623-7221-4AD1-9F24-D9303E39ABDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B7B623-7221-4AD1-9F24-D9303E39ABDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B7B623-7221-4AD1-9F24-D9303E39ABDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

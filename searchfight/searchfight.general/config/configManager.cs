@@ -18,6 +18,5 @@ namespace searchfight.general.config
             var value = ConfigurationManager.AppSettings[key];
             return string.IsNullOrWhiteSpace(value) ? defaultValue : (T)(object)(value); 
         }
-
     }
 }

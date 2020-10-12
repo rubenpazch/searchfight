@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "pOEimrAPZfxu732JRHonR1CtF0v5RcEtlOa/uT+fCt/ZE3c5qY44urrFvKOk2yiP3GGU5Rr0XoMaNL59AImIkA==",
+  "dgSpecHash": "tDialHMV6NwGn/c/0OZM8tAqEWVoIGK6Wpjc7KKG1OxvAYeoWSavSWl9zy4obaSYf5eOs/Ts2mLxOQ9X3lrOLw==",
   "success": true,
   "projectFilePath": "E:\\challenges\\searchfight\\searchfight\\searchfight\\searchfight.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ruben\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
