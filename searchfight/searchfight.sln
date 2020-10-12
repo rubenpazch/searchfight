@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "searchfight.service", "sear
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "searchfight.general", "searchfight.general\searchfight.general.csproj", "{A41FEA21-F6B4-4CCD-9F2D-4F3B57C21634}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "searchfight.factory", "factory\searchfight.factory.csproj", "{92B7B623-7221-4AD1-9F24-D9303E39ABDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "searchfight.factory", "searchfight.factory\searchfight.factory.csproj", "{80F49741-27EE-45D7-9DFB-26A40E0FC205}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +41,10 @@ Global
 		{A41FEA21-F6B4-4CCD-9F2D-4F3B57C21634}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A41FEA21-F6B4-4CCD-9F2D-4F3B57C21634}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A41FEA21-F6B4-4CCD-9F2D-4F3B57C21634}.Release|Any CPU.Build.0 = Release|Any CPU
-		{92B7B623-7221-4AD1-9F24-D9303E39ABDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{92B7B623-7221-4AD1-9F24-D9303E39ABDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{92B7B623-7221-4AD1-9F24-D9303E39ABDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{92B7B623-7221-4AD1-9F24-D9303E39ABDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F49741-27EE-45D7-9DFB-26A40E0FC205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F49741-27EE-45D7-9DFB-26A40E0FC205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F49741-27EE-45D7-9DFB-26A40E0FC205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F49741-27EE-45D7-9DFB-26A40E0FC205}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

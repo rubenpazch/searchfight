@@ -1,4 +1,4 @@
-﻿using factory;
+﻿using searchfight.factory;
 using searchfight.general.Exceptions;
 using System;
 using System.Linq;

@@ -149,19 +149,6 @@
           }
         }
       },
-      "searchfight.factory/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "searchfight.logic": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/searchfight.factory.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/searchfight.factory.dll": {}
-        }
-      },
       "searchfight.general/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -517,11 +504,6 @@
         "version.txt"
       ]
     },
-    "searchfight.factory/1.0.0": {
-      "type": "project",
-      "path": "../searchfight.factory/searchfight.factory.csproj",
-      "msbuildProject": "../searchfight.factory/searchfight.factory.csproj"
-    },
     "searchfight.general/1.0.0": {
       "type": "project",
       "path": "../searchfight.general/searchfight.general.csproj",
@@ -545,7 +527,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "searchfight.factory >= 1.0.0"
+      "searchfight.logic >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -554,11 +536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\challenges\\searchfight\\searchfight\\searchfight\\searchfight.csproj",
-      "projectName": "searchfight",
-      "projectPath": "E:\\challenges\\searchfight\\searchfight\\searchfight\\searchfight.csproj",
+      "projectUniqueName": "E:\\challenges\\searchfight\\searchfight\\searchfight.factory\\searchfight.factory.csproj",
+      "projectName": "searchfight.factory",
+      "projectPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.factory\\searchfight.factory.csproj",
       "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
-      "outputPath": "E:\\challenges\\searchfight\\searchfight\\searchfight\\obj\\",
+      "outputPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.factory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -574,8 +556,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\challenges\\searchfight\\searchfight\\searchfight.factory\\searchfight.factory.csproj": {
-              "projectPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.factory\\searchfight.factory.csproj"
+            "E:\\challenges\\searchfight\\searchfight\\searchfight.entities\\searchfight.logic.csproj": {
+              "projectPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.entities\\searchfight.logic.csproj"
             }
           }
         }

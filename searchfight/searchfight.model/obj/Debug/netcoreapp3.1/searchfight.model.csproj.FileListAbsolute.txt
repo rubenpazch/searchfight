@@ -1,7 +1,6 @@
 E:\challenges\searchfight\searchfight\searchfight.model\bin\Debug\netcoreapp3.1\searchfight.model.deps.json
 E:\challenges\searchfight\searchfight\searchfight.model\bin\Debug\netcoreapp3.1\searchfight.model.dll
 E:\challenges\searchfight\searchfight\searchfight.model\bin\Debug\netcoreapp3.1\searchfight.model.pdb
-E:\challenges\searchfight\searchfight\searchfight.model\obj\Debug\netcoreapp3.1\searchfight.model.csprojAssemblyReference.cache
 E:\challenges\searchfight\searchfight\searchfight.model\obj\Debug\netcoreapp3.1\searchfight.model.AssemblyInfoInputs.cache
 E:\challenges\searchfight\searchfight\searchfight.model\obj\Debug\netcoreapp3.1\searchfight.model.AssemblyInfo.cs
 E:\challenges\searchfight\searchfight\searchfight.model\obj\Debug\netcoreapp3.1\searchfight.model.csproj.CoreCompileInputs.cache

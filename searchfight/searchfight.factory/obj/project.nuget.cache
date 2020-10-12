@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Kiu8cT4RTbgccJB5Ea3f1BPH5if17Ctafrjcrtpa/z3sPZkEHti+0ebw9JH4EoFxrr2DB7lERLM4cO2Px8e+g==",
+  "dgSpecHash": "jSGmsFRIql+fkR91A1i19jCtgq4GHNua9EuGru7+EhAcXkI9JGq9eQ234UEjRI82WaZ67LbkXIyMtOJh42SGHQ==",
   "success": true,
-  "projectFilePath": "E:\\challenges\\searchfight\\searchfight\\searchfight\\searchfight.csproj",
+  "projectFilePath": "E:\\challenges\\searchfight\\searchfight\\searchfight.factory\\searchfight.factory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ruben\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ruben\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
