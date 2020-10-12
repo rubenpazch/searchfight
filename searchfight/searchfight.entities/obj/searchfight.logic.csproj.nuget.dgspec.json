@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "E:\\challenges\\searchfight\\searchfight\\searchfight.entities\\searchfight.logic.csproj",
-        "projectName": "searchfight.logic",
+        "projectName": "SearchFight.Core",
         "projectPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.entities\\searchfight.logic.csproj",
         "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
         "outputPath": "E:\\challenges\\searchfight\\searchfight\\searchfight.entities\\obj\\",

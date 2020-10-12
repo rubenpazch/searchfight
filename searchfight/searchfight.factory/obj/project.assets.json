@@ -149,6 +149,21 @@
           }
         }
       },
+      "SearchFight.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "searchfight.general": "1.0.0",
+          "searchfight.model": "1.0.0",
+          "searchfight.service": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SearchFight.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SearchFight.Core.dll": {}
+        }
+      },
       "searchfight.general/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -160,21 +175,6 @@
         },
         "runtime": {
           "bin/placeholder/searchfight.general.dll": {}
-        }
-      },
-      "searchfight.logic/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "searchfight.general": "1.0.0",
-          "searchfight.model": "1.0.0",
-          "searchfight.service": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/searchfight.logic.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/searchfight.logic.dll": {}
         }
       },
       "searchfight.model/1.0.0": {
@@ -504,15 +504,15 @@
         "version.txt"
       ]
     },
+    "SearchFight.Core/1.0.0": {
+      "type": "project",
+      "path": "../searchfight.entities/searchfight.logic.csproj",
+      "msbuildProject": "../searchfight.entities/searchfight.logic.csproj"
+    },
     "searchfight.general/1.0.0": {
       "type": "project",
       "path": "../searchfight.general/searchfight.general.csproj",
       "msbuildProject": "../searchfight.general/searchfight.general.csproj"
-    },
-    "searchfight.logic/1.0.0": {
-      "type": "project",
-      "path": "../searchfight.entities/searchfight.logic.csproj",
-      "msbuildProject": "../searchfight.entities/searchfight.logic.csproj"
     },
     "searchfight.model/1.0.0": {
       "type": "project",
@@ -527,7 +527,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "searchfight.logic >= 1.0.0"
+      "SearchFight.Core >= 1.0.0"
     ]
   },
   "packageFolders": {

@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "searchfight", "searchfight\searchfight.csproj", "{4BDED3C9-B5F4-40F1-9F09-8AEDBB4CC333}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "searchfight.logic", "searchfight.entities\searchfight.logic.csproj", "{9F2FD48A-0381-46A0-8406-FE1ED0B170A2}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "searchfight.model", "searchfight.model\searchfight.model.csproj", "{0A10090E-42BF-4F8C-B20A-D3701F275494}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "searchfight.service", "searchfight.service\searchfight.service.csproj", "{7712E688-B8F6-42D5-B3E9-CB6B394C835B}"
@@ -14,6 +12,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "searchfight.general", "searchfight.general\searchfight.general.csproj", "{A41FEA21-F6B4-4CCD-9F2D-4F3B57C21634}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "searchfight.factory", "searchfight.factory\searchfight.factory.csproj", "{80F49741-27EE-45D7-9DFB-26A40E0FC205}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "searchfight.logic", "searchfight.logic\searchfight.logic.csproj", "{915E4E87-86F0-47C0-9851-6060691BA43C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +25,6 @@ Global
 		{4BDED3C9-B5F4-40F1-9F09-8AEDBB4CC333}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BDED3C9-B5F4-40F1-9F09-8AEDBB4CC333}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BDED3C9-B5F4-40F1-9F09-8AEDBB4CC333}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9F2FD48A-0381-46A0-8406-FE1ED0B170A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9F2FD48A-0381-46A0-8406-FE1ED0B170A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9F2FD48A-0381-46A0-8406-FE1ED0B170A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9F2FD48A-0381-46A0-8406-FE1ED0B170A2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0A10090E-42BF-4F8C-B20A-D3701F275494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0A10090E-42BF-4F8C-B20A-D3701F275494}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A10090E-42BF-4F8C-B20A-D3701F275494}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -45,6 +41,10 @@ Global
 		{80F49741-27EE-45D7-9DFB-26A40E0FC205}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80F49741-27EE-45D7-9DFB-26A40E0FC205}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80F49741-27EE-45D7-9DFB-26A40E0FC205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{915E4E87-86F0-47C0-9851-6060691BA43C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915E4E87-86F0-47C0-9851-6060691BA43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915E4E87-86F0-47C0-9851-6060691BA43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915E4E87-86F0-47C0-9851-6060691BA43C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
