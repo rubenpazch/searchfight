@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using searchfight.logic.models;
 
-namespace searchFight.logic
+namespace searchfight.logic
 {
     public interface ISearchManager
     {

@@ -1,17 +1,12 @@
-﻿using System;
-using System.Collections;
+﻿using searchfight.general.Exceptions;
+using searchfight.service.interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using SearchFight.Common.Exceptions;
-using SearchFight.Common.Extensions;
-using SearchFight.Logic.Models;
-using SearchFight.Services.Interfaces;
 
-
-
-namespace SearchFight.Logic
+namespace searchfight.logic
 {
     public class SearchManager : ISearchManager
     {

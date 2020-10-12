@@ -1,12 +1,9 @@
-﻿using SearchFight.Logic.Models;
-using SearchFight.Services.Interfaces;
-using System;
+﻿using searchfight.logic.models;
+using searchfight.service.interfaces;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
-namespace SearchFight.Logic
+namespace searchfight.logic
 {
     public class SearchReportAsync : ISearchReportAsync
     {
@@ -27,7 +24,7 @@ namespace SearchFight.Logic
                     {
                         SearchClient = searchClient.ClientName,
                         Query = keyword,
-                        TotalResults = await searchClient.GetResultsCountAsync(keyword)
+                        TotalResults = await searchClient.GetResultCountAsync(keyword)
                     });
                 }
             }

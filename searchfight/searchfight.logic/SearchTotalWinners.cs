@@ -1,12 +1,10 @@
-﻿using SearchFight.Common.Extensions;
-using SearchFight.Logic.Models;
+﻿using searchfight.general.Extensions;
+using searchfight.logic.models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace SearchFight.Logic
+namespace searchfight.logic
 {
     public class SearchTotalWinners : ISearchTotalWinners
     {

@@ -1,11 +1,7 @@
-﻿using SearchFight.Logic.Models;
-using System;
+﻿using searchfight.logic.models;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace SearchFight.Logic
+namespace searchfight.logic
 {
     public interface ISearchTotalWinners
     {

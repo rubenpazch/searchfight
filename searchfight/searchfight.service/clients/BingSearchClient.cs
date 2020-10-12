@@ -1,13 +1,10 @@
 ﻿using Newtonsoft.Json;
 using searchfight.general.config;
 using searchfight.general.Exceptions;
-using searchfight.general.Extensions;
 using searchfight.service.interfaces;
 using searchfight.service.models.bing;
 using System;
-using System.Collections.Generic;
 using System.Net.Http;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace searchfight.service.clients

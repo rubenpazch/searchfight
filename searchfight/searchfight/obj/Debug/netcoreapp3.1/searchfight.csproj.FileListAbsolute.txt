@@ -1,4 +1,3 @@
-E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.csprojAssemblyReference.cache
 E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.AssemblyInfoInputs.cache
 E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.AssemblyInfo.cs
 E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.csproj.CoreCompileInputs.cache
@@ -10,6 +9,7 @@ E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\search
 E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\searchfight.dll
 E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\searchfight.pdb
 E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
 E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
@@ -30,8 +30,8 @@ E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\search
 E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\searchfight.logic.pdb
 E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\searchfight.model.pdb
 E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\searchfight.service.pdb
+E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.csprojAssemblyReference.cache
 E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.csproj.CopyComplete
 E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.dll
 E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.pdb
 E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.genruntimeconfig.cache
-E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

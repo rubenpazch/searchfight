@@ -1,11 +1,9 @@
-﻿using SearchFight.Logic.Models;
+﻿using searchfight.logic.models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace SearchFight.Logic
+namespace searchfight.logic
 {
     public class SearchMainResults : ISearchMainResults
     {
