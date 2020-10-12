@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "EsozHR2OXCwX/e0mjpV8nao1qdIfLNDwv07O5Z7OLduaFxPQfKuXJoY2ceyfOCr3Z0BBFnJjKF2t+IRKlYm4fw==",
+  "dgSpecHash": "ysydJcJDITAF/di8qLdTmKddYAsG5/y3vvtegBnLVXMAdbdOpzKZsgc7rzGIvJf3dOBQKF+RmUm8jiUN/gbdig==",
   "success": true,
   "projectFilePath": "E:\\challenges\\searchfight\\searchfight\\searchfight.logic\\searchfight.logic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ruben\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ruben\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\ruben\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\ruben\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
     "C:\\Users\\ruben\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",

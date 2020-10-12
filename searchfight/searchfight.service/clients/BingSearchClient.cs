@@ -1,4 +1,5 @@
-﻿using searchfight.general.config;
+﻿using Newtonsoft.Json;
+using searchfight.general.config;
 using searchfight.general.Exceptions;
 using searchfight.general.Extensions;
 using searchfight.service.interfaces;
@@ -13,7 +14,7 @@ namespace searchfight.service.clients
 {
     public class BingSearchClient : ISearchClient
     {
-        public string ClientName => "MSN Search";
+        public string ClientName => "Bing Search";
         private static readonly HttpClient _httpClient;
 
 
@@ -36,14 +37,15 @@ namespace searchfight.service.clients
                     if (!response.IsSuccessStatusCode)
                         throw new SearchFightHttpException("There was an error processing your requestm please try again later");
                     var result = await response.Content.ReadAsStringAsync();
-                    var bingResponse = result.DeserializeJson<BingResponse>();
+                    var bingResponse = JsonConvert.DeserializeObject<BingResponse>(result);
+
+
                     return long.Parse(bingResponse.WebPages.TotalEstimatedMatches);
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-
-                throw;
+                throw new SearchFightHttpException(ex.Message);
             }
         }
 

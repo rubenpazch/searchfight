@@ -6,7 +6,7 @@ E:\challenges\searchfight\searchfight\searchfight.service\bin\Debug\netcoreapp3.
 E:\challenges\searchfight\searchfight\searchfight.service\obj\Debug\netcoreapp3.1\searchfight.service.csprojAssemblyReference.cache
 E:\challenges\searchfight\searchfight\searchfight.service\obj\Debug\netcoreapp3.1\searchfight.service.AssemblyInfoInputs.cache
 E:\challenges\searchfight\searchfight\searchfight.service\obj\Debug\netcoreapp3.1\searchfight.service.AssemblyInfo.cs
-E:\challenges\searchfight\searchfight\searchfight.service\obj\Debug\netcoreapp3.1\searchfight.service.csproj.CoreCompileInputs.cache
 E:\challenges\searchfight\searchfight\searchfight.service\obj\Debug\netcoreapp3.1\searchfight.service.csproj.CopyComplete
 E:\challenges\searchfight\searchfight\searchfight.service\obj\Debug\netcoreapp3.1\searchfight.service.dll
 E:\challenges\searchfight\searchfight\searchfight.service\obj\Debug\netcoreapp3.1\searchfight.service.pdb
+E:\challenges\searchfight\searchfight\searchfight.service\obj\Debug\netcoreapp3.1\searchfight.service.csproj.CoreCompileInputs.cache

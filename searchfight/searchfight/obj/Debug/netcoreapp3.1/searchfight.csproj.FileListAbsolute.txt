@@ -34,3 +34,4 @@ E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\search
 E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.dll
 E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.pdb
 E:\challenges\searchfight\searchfight\searchfight\obj\Debug\netcoreapp3.1\searchfight.genruntimeconfig.cache
+E:\challenges\searchfight\searchfight\searchfight\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

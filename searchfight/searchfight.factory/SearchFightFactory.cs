@@ -2,6 +2,7 @@
 using searchfight.service.interfaces;
 using System;
 using System.Linq;
+using System.Reflection;
 
 namespace searchfight.factory
 {
@@ -11,10 +12,10 @@ namespace searchfight.factory
 
         private static SearchManager CreateSearchClients()
         {
-            var loadedAssemblies = AppDomain.CurrentDomain.GetAssemblies()
-                ?.Where(assembly => assembly.FullName.StartsWith("SearchFight"));
+            AppDomain currentDomain = AppDomain.CurrentDomain;
+            Assembly[] assems = currentDomain.GetAssemblies();
 
-            var searchClients = loadedAssemblies
+            var searchClients = assems
                 .SelectMany(assembly => assembly.GetTypes())
                 .Where(type => type.GetInterface(typeof(ISearchClient).ToString()) != null)
                 .Select(type => Activator.CreateInstance(type) as ISearchClient);

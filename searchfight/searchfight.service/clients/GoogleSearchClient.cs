@@ -1,4 +1,5 @@
-﻿using searchfight.general.config;
+﻿using Newtonsoft.Json;
+using searchfight.general.config;
 using searchfight.general.Exceptions;
 using searchfight.general.Extensions;
 using searchfight.service.interfaces;
@@ -33,10 +34,11 @@ namespace searchfight.service.clients
             {
                 using (var response = await _httpClient.GetAsync(_googleUrl.Replace("{2}",query)))
                 {
-                    if (response.IsSuccessStatusCode)
+                    if (!response.IsSuccessStatusCode)
                         throw new SearchFightHttpException("there was a error processing your request please try again later");
                     var result = await response.Content.ReadAsStringAsync();
-                    var googleResponse = result.DeserializeJson<GoogleResponse>();
+                    //var googleResponse = result.DeserializeJson<GoogleResponse>();
+                    var googleResponse = JsonConvert.DeserializeObject<GoogleResponse>(result);
                     return long.Parse(googleResponse.SearchInformation.TotalResults);
                 }
             }
