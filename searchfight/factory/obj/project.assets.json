@@ -536,9 +536,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\challenges\\searchfight\\searchfight\\factory\\factory.csproj",
-      "projectName": "factory",
-      "projectPath": "E:\\challenges\\searchfight\\searchfight\\factory\\factory.csproj",
+      "projectUniqueName": "E:\\challenges\\searchfight\\searchfight\\factory\\searchfight.factory.csproj",
+      "projectName": "searchfight.factory",
+      "projectPath": "E:\\challenges\\searchfight\\searchfight\\factory\\searchfight.factory.csproj",
       "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
       "outputPath": "E:\\challenges\\searchfight\\searchfight\\factory\\obj\\",
       "projectStyle": "PackageReference",

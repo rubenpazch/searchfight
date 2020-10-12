@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "searchfight.service", "sear
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "searchfight.general", "searchfight.general\searchfight.general.csproj", "{A41FEA21-F6B4-4CCD-9F2D-4F3B57C21634}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "factory", "factory\factory.csproj", "{92B7B623-7221-4AD1-9F24-D9303E39ABDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "searchfight.factory", "factory\searchfight.factory.csproj", "{92B7B623-7221-4AD1-9F24-D9303E39ABDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\factory\factory.csproj" />
+    <ProjectReference Include="..\factory\searchfight.factory.csproj" />
   </ItemGroup>
 
 </Project>

@@ -149,17 +149,17 @@
           }
         }
       },
-      "factory/1.0.0": {
+      "searchfight.factory/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "searchfight.logic": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/factory.dll": {}
+          "bin/placeholder/searchfight.factory.dll": {}
         },
         "runtime": {
-          "bin/placeholder/factory.dll": {}
+          "bin/placeholder/searchfight.factory.dll": {}
         }
       },
       "searchfight.general/1.0.0": {
@@ -517,10 +517,10 @@
         "version.txt"
       ]
     },
-    "factory/1.0.0": {
+    "searchfight.factory/1.0.0": {
       "type": "project",
-      "path": "../factory/factory.csproj",
-      "msbuildProject": "../factory/factory.csproj"
+      "path": "../factory/searchfight.factory.csproj",
+      "msbuildProject": "../factory/searchfight.factory.csproj"
     },
     "searchfight.general/1.0.0": {
       "type": "project",
@@ -545,7 +545,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "factory >= 1.0.0"
+      "searchfight.factory >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -574,8 +574,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\challenges\\searchfight\\searchfight\\factory\\factory.csproj": {
-              "projectPath": "E:\\challenges\\searchfight\\searchfight\\factory\\factory.csproj"
+            "E:\\challenges\\searchfight\\searchfight\\factory\\searchfight.factory.csproj": {
+              "projectPath": "E:\\challenges\\searchfight\\searchfight\\factory\\searchfight.factory.csproj"
             }
           }
         }

@@ -3,7 +3,7 @@ using searchfight.service.interfaces;
 using System;
 using System.Linq;
 
-namespace factory
+namespace searchfight.factory
 {
     public class SearchFightFactory
     {
